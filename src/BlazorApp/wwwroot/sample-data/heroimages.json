@@ -1,13 +1,13 @@
 [
   {
     "name": "home",
-    "src": "images/woman-with-tablet.jpg",
-    "alt": "woman with glasses holding a tablet"
+    "src": "images/Laptoponadesk.jpg",
+    "alt": "Laptop on a Desk with Code Shown"
   },
   {
     "name": "about",
-    "src": "images/motion-background.jpg",
-    "alt": "gray abstract background"
+    "src": "images/LaptopBlackScene.jpg",
+    "alt": "Laptop in BG"
   },
   {
     "name": "portfolio",
