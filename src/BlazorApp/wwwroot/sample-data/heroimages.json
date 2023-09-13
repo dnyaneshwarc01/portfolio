@@ -1,13 +1,13 @@
 [
   {
     "name": "home",
-    "src": "images/Laptoponadesk.jpg",
-    "alt": "Laptop on a Desk with Code Shown"
+    "src": "images/LaptopBlackScene.jpg",
+    "alt": "Laptop in BG"
   },
   {
     "name": "about",
-    "src": "images/LaptopBlackScene.jpg",
-    "alt": "Laptop in BG"
+    "src": "images/Laptoponadesk.jpg",
+    "alt": "Laptop on a Desk with Code Shown"
   },
   {
     "name": "portfolio",
